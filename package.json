@@ -1,12 +1,13 @@
 {
   "name": "server-lxy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "bin": {
     "server-lxy": "./bin/www.js"
   },
   "author": "刘晓洋",
   "license": "MIT",
+  "homepage": "https://github.com/liuxiaoyang000/server",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
